@@ -1,6 +1,4 @@
-package Functions;
-
-import java.util.Arrays;
+package Utils;
 
 public class Array {
   public static void display(int[] array){

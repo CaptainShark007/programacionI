@@ -1,4 +1,4 @@
-import Functions.Array;
+import Utils.Array;
 
 import java.util.Scanner;
 
